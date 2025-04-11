@@ -2,9 +2,9 @@
 
 ## 🇪🇸 Español
 
-## Descripción
+## 🖥️ Descripción
 
-🖥️ **SysTemp** Es un pequeño script en Python para mostrar las temperaturas del sistema de forma clara, amigable y legible desde la terminal. Ideal para técnicos e informáticos que quieren una vista rápida y organizada de los sensores de temperatura en su equipo Linux.
+ **SysTemp** Es un pequeño script en Python para mostrar las temperaturas del sistema de forma clara, amigable y legible desde la terminal. Ideal para técnicos e informáticos que quieren una vista rápida y organizada de los sensores de temperatura en su equipo Linux.
 
 ## 🚀 Características
 - Muestra temperaturas de CPU, NVMe, WiFi, chipset y otros sensores.
@@ -18,9 +18,7 @@
    - ⚠️ Límite de alerta (high)
    - 🚨 Límite crítico (critical)
 
-
-
-📦 Requisitos
+## 📦 Requisitos
 Python 3.6 o superior
 
 psutil
