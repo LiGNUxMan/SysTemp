@@ -41,8 +41,8 @@ python3 systemp.py
 ```
 ===================== Temperaturas del sistema =====================
 
-🛠️  Sensor: acpitz
-   🌡️ (sin etiqueta): 32.0°C
+🛠️  Sensor: *acpitz*
+   🌡️ (sin etiqueta): *32.0°C*
    🌡️ (sin etiqueta): 29.0°C
 
 🛠️  Sensor: nvme
