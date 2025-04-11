@@ -21,8 +21,8 @@
 
 
 ## 📦 Requisitos
--Python 3.6 o superior
--psutil
+- Python 3.6 o superior
+- psutil
 
 
 Instalación rápida de psutil:
