@@ -13,10 +13,10 @@
 
 - Usa emojis para mayor claridad visual:
 
--- 🛠️ Nombre del sensor
--- 🌡️ Temperatura
--- ⚠️ Límite de alerta (high)
--- 🚨 Límite crítico (critical)
+   - 🛠️ Nombre del sensor
+   - 🌡️ Temperatura
+   - ⚠️ Límite de alerta (high)
+   - 🚨 Límite crítico (critical)
 
 
 
