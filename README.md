@@ -1,5 +1,86 @@
 # SysTemp (System Temperature) Version 1.0.20250411a
 
+## 🇺🇸🇬🇧 English
+
+## 🖥️ Description
+
+**SysTemp** is a small Python script for displaying system temperatures in a clear, user-friendly, and readable manner from the terminal. Ideal for technicians and IT professionals who want a quick and organized view of the temperature sensors on their Linux computer.
+
+## 🚀 Features
+
+- Displays CPU, NVMe, WiFi, chipset, and other sensor temperatures.
+
+- Groups by sensor type.
+
+- Use emojis for visual clarity:
+
+- 🛠️ Sensor name
+- 🌡️ Temperature
+- ⚠️ Alert limit (high)
+- 🚨 Critical limit (critical)
+
+## 📦 Requirements
+
+- Python 3.6 or higher
+- psutil
+
+Quick psutil installation:
+```bash
+pip install psutil
+```
+
+## 💻 Usage
+
+Run the script directly:
+```bash
+python3 systemp.py
+```
+
+## Expected output:
+
+![Screenshot from 2025-04-11 13-40-56](https://github.com/user-attachments/assets/dfd08bc1-3eff-4066-9e8a-af73d1b71c54)
+
+```
+===================== System Temperatures =====================
+
+🛠️ Sensor: acpitz
+ 🌡️ (without label): 32.0°C
+ 🌡️ (without label): 29.0°C
+
+🛠️ Sensor: nvme
+ 🌡️ Composite: 29.9°C (⚠️ Alert: 117.8°C) (🚨 Critical: 149.8°C)
+
+🛠️ Sensor: coretemp
+ 🌡️ Package id 0: 47.0°C (⚠️ Alert: 100.0°C) (🚨 Critical: 100.0°C)
+ 🌡️ Core 0: 47.0°C (⚠️ Alert: 100.0°C) (🚨 Critical: 100.0°C)
+ 🌡️ Core 1: 35.0°C (⚠️ Alert: 100.0°C) (🚨 Critical: 100.0°C)
+
+🛠️ Sensor: pch_skylake
+ 🌡️ (without label): 28.0°C
+
+🛠️ Sensor: iwlwifi_1
+ 🌡️ (no label): 36.0°C
+
+=========================================================================
+```
+
+## Author
+
+- **Axel O'BRIEN (LiGNUxMan)** - [GitHub Profile](https://github.com/LiGNUxMan/)
+- **ChatGPT** - Development Support
+
+## License
+
+This project is distributed under the **GPLv3** license. Use, modify, and share it freely!
+
+## Contributions
+
+Any improvements, corrections, or suggestions are welcome. Add your contribution to this project!
+**If you're interested in contributing, open an issue or make a pull request! 🤝**
+
+---
+# SysTemp (System Temperature) Version 1.0.20250411a
+
 ## 🇪🇸 Español
 
 ## 🖥️ Descripción
