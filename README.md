@@ -41,23 +41,23 @@ python3 systemp.py
 ```
 ===================== Temperaturas del sistema =====================
 
-🛠️  Sensor: *acpitz*
-   🌡️ (sin etiqueta): *32.0°C*
-   🌡️ (sin etiqueta): 29.0°C
+🛠️  Sensor: **acpitz**
+   🌡️ (sin etiqueta): **32.0°C**
+   🌡️ (sin etiqueta): **29.0°C**
 
-🛠️  Sensor: nvme
-   🌡️ Composite: 29.9°C (⚠️  Alerta: 117.8°C) (🚨 Critico: 149.8°C)
+🛠️  Sensor: **nvme**
+   🌡️ Composite: **29.9°C** (⚠️  Alerta: 117.8°C) (🚨 Critico: 149.8°C)
 
-🛠️  Sensor: coretemp
-   🌡️ Package id 0: 47.0°C (⚠️  Alerta: 100.0°C) (🚨 Critico: 100.0°C)
-   🌡️ Core 0: 47.0°C (⚠️  Alerta: 100.0°C) (🚨 Critico: 100.0°C)
-   🌡️ Core 1: 35.0°C (⚠️  Alerta: 100.0°C) (🚨 Critico: 100.0°C)
+🛠️  Sensor: **coretemp**
+   🌡️ Package id 0: **47.0°C** (⚠️  Alerta: 100.0°C) (🚨 Critico: 100.0°C)
+   🌡️ Core 0: **47.0°C** (⚠️  Alerta: 100.0°C) (🚨 Critico: 100.0°C)
+   🌡️ Core 1: **35.0°C** (⚠️  Alerta: 100.0°C) (🚨 Critico: 100.0°C)
 
-🛠️  Sensor: pch_skylake
-   🌡️ (sin etiqueta): 28.0°C
+🛠️  Sensor: **pch_skylake**
+   🌡️ (sin etiqueta): **28.0°C**
 
-🛠️  Sensor: iwlwifi_1
-   🌡️ (sin etiqueta): 36.0°C
+🛠️  Sensor: **iwlwifi_1**
+   🌡️ (sin etiqueta): **36.0°C**
 
 ====================================================================
 ```
