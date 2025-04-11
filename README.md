@@ -26,14 +26,14 @@
 
 
 Instalación rápida de psutil:
-
-```pip install psutil
-
+```bash
+pip install psutil
+```
 
 ## 💻 Uso
 Ejecutá el script directamente:
 ```bash
-```python3 systemp.py
+python3 systemp.py
 ```
 
 
