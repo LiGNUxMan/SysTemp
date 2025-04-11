@@ -8,6 +8,7 @@
 
 
 ## 🚀 Características
+
 - Muestra temperaturas de CPU, NVMe, WiFi, chipset y otros sensores.
 
 - Agrupa por tipo de sensor.
@@ -21,6 +22,7 @@
 
 
 ## 📦 Requisitos
+
 - Python 3.6 o superior
 - psutil
 
@@ -31,6 +33,7 @@ pip install psutil
 ```
 
 ## 💻 Uso
+
 Ejecutá el script directamente:
 ```bash
 python3 systemp.py
@@ -38,6 +41,9 @@ python3 systemp.py
 
 
 ## Salida esperada:
+
+![Captura de pantalla de 2025-04-11 13-40-56](https://github.com/user-attachments/assets/dfd08bc1-3eff-4066-9e8a-af73d1b71c54)
+
 ```
 ===================== Temperaturas del sistema =====================
 
@@ -62,5 +68,19 @@ python3 systemp.py
 ====================================================================
 ```
 
-📜 Licencia
-Este proyecto está licenciado bajo la GPLv3.
+
+## Autor
+
+- **Axel O'BRIEN (LiGNUxMan)** - [GitHub Profile](https://github.com/LiGNUxMan/)
+- **ChatGPT** - Asistencia en desarrollo
+
+
+## Licencia
+
+Este proyecto se distribuye bajo la licencia **GPLv3**. ¡Úsalo, modifícalo y compártelo libremente!
+
+
+## Contribuciones
+
+Cualquier mejora, corrección o sugerencia es bienvenida. ¡Suma tu aporte a este proyecto!
+**Si te interesa contribuir, ¡abre un issue o haz un pull request! 🤝**
