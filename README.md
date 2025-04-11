@@ -1,4 +1,4 @@
-# SysTemp (System Temperature) Version 1.0.20250411a
+# SysTemp (System Temperature) v1.0.20250411a
 
 ## 🇺🇸🇬🇧 English
 
@@ -80,7 +80,7 @@ Any improvements, corrections, or suggestions are welcome. Add your contribution
 **If you're interested in contributing, open an issue or make a pull request! 🤝**
 
 ---
-# SysTemp (System Temperature) Version 1.0.20250411a
+# SysTemp (System Temperature) v1.0.20250411a
 
 ## 🇪🇸 Español
 
